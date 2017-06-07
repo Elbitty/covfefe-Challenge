@@ -4,6 +4,7 @@ covfefe-Challenge:
     Find the solution of obtain numbers from 0 to 10 with only covfefe.
 
     Rules:
+        0. Code as much as possible to use covfefe.
         1. Variables other than covfefe should NOT be used.
         2. Any string other than "covfefe" as defined in the argument should NOT be used.
         3. Assignment operator {=}, Comparison operators {== >= <=},
@@ -14,6 +15,7 @@ covfefe-Challenge:
     covfefe만으로 0~10까지 구하기.
 
     규칙:
+        0. 최대한 covfefe를 사용하는 방향으로 코딩할 것.
         1. covfefe 이외의 변수는 사용할 수 없음.
         2. 인수에 정의된 "covfefe" 이외의 문자열은 사용할 수 없음.
         3. 대입 연산자 {=}, 비교 연산자 {== >= <=},
