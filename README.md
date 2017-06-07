@@ -3,7 +3,7 @@
 Find the solution of obtain numbers from 0 to 10 with only covfefe.
 ---
 
-Rules:
+Rules
 
 -1. Variables other than covfefe should NOT be used.
 -2. Any string other than "covfefe" as defined in the argument should NOT be used.
