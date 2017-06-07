@@ -19,7 +19,7 @@ covfefe-Challenge:
         2. Any string other than "covfefe" as defined in the argument should NOT be used.
         3. Assignment operator {=}, Comparison operators {{== >= <=},},
                 Arithmetic operators { + - * / ** += -= *= /= } are also PROHIBITED.
-        4. All kinds of programming languages are allowed.
+        4. All kind of programming languages are allowed.
 """
 
 def covfefe_0(covfefe="covfefe"):
