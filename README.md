@@ -1,5 +1,4 @@
 # covfefe-Challenge
-
 Find the solution of obtain numbers from 0 to 10 with only covfefe.
 ----------
 
@@ -11,8 +10,7 @@ Find the solution of obtain numbers from 0 to 10 with only covfefe.
 
 
 ----------
-#covfefe 챌린지
-
+# covfefe 챌린지
 covfefe만으로 0~10까지 구하기.
 ----------
 
