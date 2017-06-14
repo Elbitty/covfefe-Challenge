@@ -1,8 +1,6 @@
 """
 covfefe-Challenge:
-
     Find the solution of obtain numbers from 0 to 10 with only covfefe.
-
     Rules:
         0. Code as much as possible to use covfefe.
         1. Variables other than covfefe should NOT be used.
@@ -10,10 +8,7 @@ covfefe-Challenge:
         3. Assignment operator {=}, Comparison operators {== >= <=},
                 Arithmetic operators {+ - * / ** += -= *= /=} are also PROHIBITED.
         4. All kind of programming languages are allowed.
-
-
-    covfefe만으로 0~10까지 구하기.
-
+    covfefe만으로 0~9까지 구하기.
     규칙:
         0. 최대한 covfefe를 사용하는 방향으로 코딩할 것.
         1. covfefe 이외의 변수는 사용할 수 없음.
@@ -21,7 +16,6 @@ covfefe-Challenge:
         3. 대입 연산자 {=}, 비교 연산자 {== >= <=},
             산술 연산자 {+ - * / ** += -= *= /=} 역시 금지.
         4. 모든 프로그래밍 언어가 허용됨.
-
 """
 
 def covfefe_0(covfefe="covfefe"):
@@ -31,20 +25,28 @@ def covfefe_1(covfefe="covfefe"):
     return int(not not covfefe)
 
 def covfefe_2(covfefe="covfefe"):
-    pass
+    return str(ord(str(ord(str(int(not covfefe))))[int(not covfefe)]))[int(not not covfefe)]
+
+def covfefe_3(covfefe="covfefe"):
+    return str(ord(str(ord(str(len(covfefe))[int(not covfefe)]))[int(not covfefe)]))[int(not not covfefe)]
+
+def covfefe_4(covfefe="covfefe"):
+    return str(ord(str(int(not covfefe))))[int(not covfefe)]
+
+def covfefe_5(covfefe="covfefe"):
+    return str(ord(str(len(covfefe))[int(not covfefe)]))[int(not covfefe)]
 
 def covfefe_6(covfefe="covfefe"):
-    for covfefe in enumerate(covfefe):
-        pass
-    else:
-        return covfefe[int(not covfefe)]
+    return str(ord(str(ord(str(int(not covfefe))))[int(not not covfefe)]))[int(not not covfefe)]
 
 def covfefe_7(covfefe="covfefe"):
     return len(covfefe)
 
+def covfefe_8(covfefe="covfefe"):
+    return str(ord(str(int(not covfefe))))[int(not not covfefe)]
 
 def covfefe_9(covfefe="covfefe"):
-    return int(str(ord(list(covfefe)[int(not covfefe)]))[int(not covfefe)])
+    return str(ord(list(covfefe)[int(not covfefe)]))[int(not covfefe)]
 
 
-print(covfefe_1())
+print(covfefe_0())
