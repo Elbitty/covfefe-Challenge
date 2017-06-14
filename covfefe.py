@@ -50,3 +50,12 @@ def covfefe_9(covfefe="covfefe"):
 
 
 print(covfefe_0())
+print(covfefe_1())
+print(covfefe_2())
+print(covfefe_3())
+print(covfefe_4())
+print(covfefe_5())
+print(covfefe_6())
+print(covfefe_7())
+print(covfefe_8())
+print(covfefe_9())
