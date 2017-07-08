@@ -6,7 +6,7 @@ covfefe-Challenge:
          0. Code as much as possible to use covfefe.
          1. Variables other than covfefe should NOT be used.
          2. Any string other than "covfefe" should NOT be used.
-         3. Assignment operator {=}, Comparison operators {== >= <=}, Arithmetic operators {+ - * / \** += -= *= /=} are also PROHIBITED.
+         3. Assignment operator {=}, Comparison operators {== >= <=}, Arithmetic operators {+ - * / ** += -= *= /=} are also PROHIBITED.
          4. All kind of programming languages are allowed.
 
 
@@ -17,7 +17,7 @@ covfefe 챌린지
          0. 최대한 covfefe 위주로 사용해 코딩할 것.
          1. covfefe 이외의 변수는 사용할 수 없음.
          2. "covfefe" 이외의 문자열은 사용할 수 없음.
-         3. 대입 연산자 {=}, 비교 연산자 {== >= <=}, 산술 연산자 {+ - * / \** += -= *= /=} 역시 금지.
+         3. 대입 연산자 {=}, 비교 연산자 {== >= <=}, 산술 연산자 {+ - * / ** += -= *= /=} 역시 금지.
          4. 모든 프로그래밍 언어가 허용됨.
 
 """
