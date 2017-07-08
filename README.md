@@ -36,7 +36,7 @@ Reglas:
  0. Código tanto como sea posible para usar covfefe.
  1. NO se deben utilizar variables distintas de covfefe.
  2. NO se debe usar ninguna cadena que no sea "covfefe".
- 3. Operador de asignación {=}, operadores de comparación {==> = <=}, operadores aritméticos {+ - * / \** + = - = * = / =} también están PROHIBIDOS.
+ 3. Operador de asignación {=}, operadores de comparación {==> = <=}, operadores aritméticos {+ - * / \** += -= *= /=} también están PROHIBIDOS.
  4. Se permite todo tipo de lenguajes de programación.
  
 
@@ -51,6 +51,6 @@ Reglas:
  0. できるだけcovfefeを使用するようにコーディングしてください。
  1. covfefe以外の変数は使用しないでください。
  2.「covfefe」以外の文字列は、使用しないでください。
- 3. 代入演算子{=}、比較演算子{==> = <=}、算術演算子{+ - * / \** + = - = * = / =}も使用することができません。
+ 3. 代入演算子{=}、比較演算子{==> = <=}、算術演算子{+ - * / \** += -= *= /=}も使用することができません。
  4. すべての種類のプログラミング言語が使用することができます。
 
